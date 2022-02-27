@@ -1,5 +1,5 @@
 # Feature-Selection ![license](https://img.shields.io/github/license/pouyaardehkhani/Feature-Selection.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Feature-Selection.svg) <a href="https://colab.research.google.com/github/pouyaardehkhani/Feature-Selection/blob/master/feature%20selection%20v2.0.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-This project intends to shows the ways we can perform feature selection on our data.
+This project intends to show the ways we can perform feature selection on our data.
 
 ## Skills that are covered in the project:
 1. Feature Selection with Filtering Method
